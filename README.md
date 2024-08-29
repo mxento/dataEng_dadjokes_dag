@@ -1,6 +1,8 @@
 Simple Airflow Dag to slack me dag jokes every hour
 
-Step 1. copy dajokes.txt and dadjokes_dag.py into your airflow dags folder
+Step 0. this code assumes you know how to setup Airflow already and create a Slack Webhook. 
+
+Step 1. copy dajokes.txt and dadjokes_dag.py into your airflow instance's dags folder
 
 Step 2. create a variable in airlfow for your slack_webhook and enter variable name in YOUR_SLACK_WEBHOOK_HERE
 
