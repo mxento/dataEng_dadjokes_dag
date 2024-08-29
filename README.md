@@ -1,4 +1,4 @@
-Simple Airflow Dag to slack me dag jokes every hour
+Simple Airflow Dag to slack me dad jokes every hour
 
 Step 0. this code assumes you know how to setup Airflow already and create a Slack Webhook. 
 
